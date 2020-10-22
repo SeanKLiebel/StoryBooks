@@ -1,0 +1,20 @@
+{
+  "name": "Story books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanKLiebel/StoryBooks.git"
+  },
+  "keywords": [],
+  "author": "Sean K Liebel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanKLiebel/StoryBooks/issues"
+  },
+  "homepage": "https://github.com/SeanKLiebel/StoryBooks#readme"
+}
